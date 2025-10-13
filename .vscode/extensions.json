@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "oven.bun-vscode",
+    "vivaxy.vscode-conventional-commits",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "golang.go",
+    "wix.vscode-import-cost",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "redis.redis-for-vscode",
+    "ms-ossdata.vscode-pgsql",
+    "svelte.svelte-vscode"
+  ]
+}

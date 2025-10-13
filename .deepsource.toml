@@ -1,0 +1,28 @@
+version = 1
+
+[[analyzers]]
+name = "test-coverage"
+
+[[analyzers]]
+name = "go"
+
+  [analyzers.meta]
+  import_root = "github.com/newgentdigital/finconnect"
+
+[[analyzers]]
+name = "javascript"
+
+  [analyzers.meta]
+  environment = [
+    "browser",
+    "nodejs"
+  ]
+
+[[analyzers]]
+name = "secrets"
+
+[[transformers]]
+name = "prettier"
+
+[[transformers]]
+name = "gofmt"
