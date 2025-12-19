@@ -13,7 +13,7 @@ Finconnect Enterprise Edition provides cloud and enterprise-grade functionality 
 
 ## Comparison to other repository folders
 
-- **Core folders (e.g., `api/`, `cmd/`, `internal/`, `web/`)**: These contain the open-source foundation of Finconnect, available under AGPLv3 or other open licenses.
+- **Core folders (e.g., `src/`, `lib/`)**: These contain the open-source foundation of Finconnect, available under AGPLv3 or other open licenses.
 - **`ee/` folder**: Contains enterprise-only features. Usage requires a commercial license and is subject to additional restrictions.
 
 ## Licensing & usage
