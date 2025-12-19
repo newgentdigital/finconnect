@@ -16,11 +16,3 @@ updates:
     schedule:
       interval: "weekly"
     target-branch: "main"
-
-  - package-ecosystem: gomod
-    directory: "/"
-    labels:
-      - "dependencies"
-    schedule:
-      interval: "weekly"
-    target-branch: "main"
